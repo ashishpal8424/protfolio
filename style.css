@@ -3,3 +3,36 @@ button { padding: 10px 20px; font-size: 16px; }
 
 body { font-family: Arial; text-align: center; margin-top: 50px; }
 button { padding: 10px 20px; font-size: 16px; }
+
+
+
+rm ~/.gitconfig
+ls ~/.ssh
+
+--global → your user-wide settings
+
+git config --global user.name  ""
+git config --global user.email ""
+
+git config --global user.name
+git config --gloabl user.email 
+
+
+git config  user.name  ""
+git config  user.email ""
+
+git config  user.name
+git config  user.email 
+
+
+git config --list
+git config --global --list
+git status
+
+
+
+
+
+
+
+
